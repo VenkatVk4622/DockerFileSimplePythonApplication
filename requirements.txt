@@ -1,0 +1,4 @@
+flask==2.3.2          # For building a simple web application
+requests==2.31.0      # For making HTTP requests
+pandas==2.1.1         # For data manipulation and analysis
+numpy==1.26.0         # For numerical computations
